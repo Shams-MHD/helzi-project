@@ -12,12 +12,9 @@ export class AppController {
 
   @Post()
   getHello(): string {
-
-    console.log('hi');
     return this.appService.getHello();
   }
 }
 //lkjhgfghjkl;kjbjnzn
 lkjhgffghjk
 ;lkjhj
-hi
