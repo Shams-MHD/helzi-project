@@ -18,3 +18,6 @@ export class AppController {
 //lkjhgfghjkl;kjbjnzn
 lkjhgffghjk
 ;lkjhj
+hi
+
+ser mazane
