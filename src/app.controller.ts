@@ -11,14 +11,6 @@ export class AppController {
     ser mazane
   }
 
-  @Post()
-  getHello(): string {
-    return this.appService.getHello();
-  }
-}
-//lkjhgfghjkl;kjbjnzn
-lkjhgffghjk
-;lkjhj
-hi
 
-ser mazane
+
+}
