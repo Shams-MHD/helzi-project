@@ -12,6 +12,10 @@ export class AppController {
 
   @Post()
   getHello(): string {
+    console.log('hii') ;
     return this.appService.getHello();
   }
+
+
+
 }
