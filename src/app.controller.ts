@@ -10,22 +10,6 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  @Get('waseem')
-  waseem(): string {
-    return this.appService.getHello();
-  }
 
-  @Post()
-  getHello(): string {
-    return this.appService.getHello();
-  }
+
 }
-//lkjhgfghjkl;kjbjnzn
-lkjhgffghjk
-;lkjhj
-hi
-
-ser mazane
-
-helzi
-ser mazane
